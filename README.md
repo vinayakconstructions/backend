@@ -6,5 +6,7 @@ Live on <a href="http://65.2.167.99:3001/api/v1/getDetails">Live on aws</a>
 body of data = {
     "username" :"xyz",
     "email":"xyz",
-    "message":"welcomeBoy"
+    "message":"Hello",
+    "phone":6789,
+    "subject":"Hello"
 }
