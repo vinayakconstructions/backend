@@ -79,8 +79,10 @@ const feedBack = async (req,res,next) => {
 
               <!-- Contact Info -->
               <p style="color: #555; font-size: 14px; margin: 5px 0;">
-              📞 Vaibhav Saxena - +91 6376-635379 & 094133 50792
-              📞 Ikramuddin khan - +91 94141 76392 & +91 861-9470159
+              📞 Vaibhav Saxena - +91 094133 50792
+              📞 Ikramuddin khan - +91 94141 76392
+              📞 Neeraj Khandelwal - +91 9829035027
+              📞 Ghanshyam Khandelwal - +91 9413350792
               </p>
 
               <!-- Social Media Links -->
