@@ -110,12 +110,12 @@ const feedBack = async (req,res,next) => {
         port: 587,
         secure:false,
         auth: {
-          user: 'vinayakconstructions101@gmail.com',
+          user: 'vinayakconstructions9255@gmail.com',
           pass: process.env.PASSWORD
         }
       });
       var mailOptions = {
-        from: 'vinayakconstructions101@gmail.com',
+        from: 'Vinayakconstructions9255@gmail.com',
         to: req.body.email,
         subject: 'Thankyou for contacting us!',
         // text: `Hii ${req.body.username} thanks for contacting Us. I will touch you soon!`
@@ -129,8 +129,8 @@ const feedBack = async (req,res,next) => {
         ],
       };
       var mailOptionsSender = {
-        from: 'vinayakconstructions101@gmail.com',
-        to: 'vinayakconstructions101@gmail.com',
+        from: 'Vinayakconstructions9255@gmail.com',
+        to: 'Vinayakconstructions9255@gmail.com',
         subject: `${req.body.username} Wants to connect With you !`,
         html:emailContent
       };
