@@ -82,7 +82,7 @@ const feedBack = async (req,res,next) => {
               📞 Vaibhav Saxena - +91 094133 50792
               📞 Ikramuddin khan - +91 94141 76392
               📞 Neeraj Khandelwal - +91 9829035027
-              📞 Ghanshyam Khandelwal - +91 9413350792
+              📞 Ghanshyam Khandelwal - +91 9829037127
               </p>
 
               <!-- Social Media Links -->
